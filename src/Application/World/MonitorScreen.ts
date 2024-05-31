@@ -184,7 +184,7 @@ export default class MonitorScreen extends EventEmitter {
 
         // Set iframe attributes
         // PROD
-        iframe.src = 'https://gure.li/';
+        iframe.src = 'https://xn--7dbcb7b9a.xn--9dbq2a/' || 'נקודה.קום' || 'https://main-portfolio-ruby.vercel.app/';
         /**
          * Use dev server is query params are present
          *
